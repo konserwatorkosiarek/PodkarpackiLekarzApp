@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodkarpackiLekarz.Api", "src\PodkarpackiLekarz.Api\PodkarpackiLekarz.Api.csproj", "{D8B4053A-08BD-4F28-A086-DF0B494A93B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodkarpackiLekarz.Shared", "src\PodkarpackiLekarz.Shared\PodkarpackiLekarz.Shared.csproj", "{677FD8FE-4E2C-45BC-9574-154CEAF95256}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D8B4053A-08BD-4F28-A086-DF0B494A93B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8B4053A-08BD-4F28-A086-DF0B494A93B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8B4053A-08BD-4F28-A086-DF0B494A93B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677FD8FE-4E2C-45BC-9574-154CEAF95256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677FD8FE-4E2C-45BC-9574-154CEAF95256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677FD8FE-4E2C-45BC-9574-154CEAF95256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677FD8FE-4E2C-45BC-9574-154CEAF95256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
